@@ -1,0 +1,8 @@
+{
+  "name": "Snowy-the-dog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:129emma/Snowy-the-dog.git",
+  "author": "Emma Zhao <129emma@gmail.com>",
+  "license": "MIT"
+}
